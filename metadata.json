@@ -1,0 +1,6 @@
+{
+  "name": "SnapTok - TikTok Video Downloader",
+  "description": "Fast, modern TikTok video downloader. Download high-definition TikTok videos, audio, and slides without watermarks, with bulk download and download manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
